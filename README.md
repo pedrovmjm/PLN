@@ -1,2 +1,2 @@
 # PLN
-Processamento de Linguagem Natural - UFAbc
+Processamento de Linguagem Natural - UFABC
